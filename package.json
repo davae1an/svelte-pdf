@@ -1,5 +1,5 @@
 {
-  "name": "svelte-pdf",
+  "name": "svelte-pdfz",
   "version": "1.0.21",
   "description": "svelte-pdf provides a component for rendering PDF documents using PDF.js",
   "keywords": [
@@ -11,13 +11,13 @@
     "pdf-rotation",
     "pdf-navigation"
   ],
-  "homepage": "https://github.com/vinodnimbalkar/svelte-pdf#readme",
+  "homepage": "https://github.com/davae1an/svelte-pdf#readme",
   "bugs": {
-    "url": "https://github.com/vinodnimbalkar/svelte-pdf/issues"
+    "url": "https://github.com/davae1an/svelte-pdf/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinodnimbalkar/svelte-pdf.git"
+    "url": "git+https://github.com/davae1an/svelte-pdf.git"
   },
   "license": "MIT",
   "type": "module",
